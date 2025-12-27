@@ -22,10 +22,10 @@ description: Personal website and (somewhat) tech focused blog.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://rocketlauncher21.github.io"
+url: "https://rose1440.is-a.dev"
 
 github:
-  username: RocketLauncher21 # change to your GitHub username
+  username: dky4 # change to your GitHub username
 
 twitter:
   username: Ducky1440 # change to your Twitter username
@@ -38,7 +38,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Ducky1440 # change to your Twitter homepage
-    - https://github.com/RocketLauncher21 # change to your GitHub homepage
+    - https://github.com/dky4 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -94,7 +94,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: https://raw.githubusercontent.com/RocketLauncher21/rocketlauncher21.github.io/refs/heads/main/assets/images
+cdn: https://raw.githubusercontent.com/dky4/dky4.github.io/refs/heads/main/assets/images
 
 # the avatar on sidebar, support local
 avatar: https://avatars.githubusercontent.com/u/68105821?v=4
