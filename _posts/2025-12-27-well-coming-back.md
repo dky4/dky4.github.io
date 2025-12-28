@@ -1,6 +1,6 @@
 ---
 title: Well.. 10 Months Later
-date: 2025-12-27 21:45:00 +0200
+date: 2025-12-27 22:45:00 +0200
 categories: [Personal, Blog]
 description: Why I wasn't posting here much
 tags: [blog]     # TAG names should always be lowercase
