@@ -48,7 +48,7 @@ I downloaded it because it said on the tin it would work with my PC and all my o
 
 The UI looked like shit, I couldn't even get it on my PC which was what I was interested about.
 
-I just switched back to [Aegis](https://geteagis.app). It's great and I recommend it to you all.
+I just switched back to [Aegis](https://getaegis.app). It's great and I recommend it to you all.
 
 ## Proton VPN
 This thing SUCKS in its free tier. But unlike Proton's other services, this is basically just the free sample and not actually usable on its own.
